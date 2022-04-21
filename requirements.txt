@@ -1,0 +1,30 @@
+pyTelegramBotAPI
+soupsieve == 2.0.1
+lxml == 4.6.3
+urllib3 == 1.25.10
+requests
+beautifulsoup4 == 4.9.1
+PyYAML == 5.3.1
+PyDrive == 1.3.1
+oauth2client == 4.1.3
+oauthlib == 3.1.0
+cachetools == 4.2.0
+certifi == 2020.12.5
+chardet == 4.0.0
+google == 3.0.0
+google-api-core
+google-api-python-client == 1.12.8
+google-auth == 1.24.0
+google-auth-httplib2 == 0.0.4
+googleapis-common-protos == 1.52.0
+httplib2 == 0.18.1
+idna == 2.10
+pip == 20.3.3
+protobuf == 3.14.0
+pyasn1 == 0.4.8
+pyasn1-modules == 0.2.8
+pytz == 2020.5
+rsa == 4.7
+setuptools == 51.3.3
+six == 1.15.0
+uritemplate == 3.0.1
